@@ -1,0 +1,4 @@
+We present a kinematic analysis of the main-sequence galaxy HZ4 at $z=5.5$.
+Our study is based on deep, spatially resolved observations of the [CII] 158
+$\mu$m transition obtained with the Atacama Large Millimeter/Submillimeter
+Array (ALMA).
